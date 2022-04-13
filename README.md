@@ -1,14 +1,14 @@
 # my-notes
 
-## Task 1
-
-My name is **Mohammad AbuMazen** I graduated from The University of Jordan in 2021 with a degree in Mechatronics Engineering. Prior to this boot-camp, I completed a couple of online courses. Ideally, I would like to continue to specialize in Data Science. I'm impassioned in building artificial intelligence models using machine learning and deep learning techniques.
 
 
+My name is **Mohammad AbuMazen** I graduated from The University of Jordan in 2021 with a degree in Mechatronics Engineering. Prior to this boot-camp, I completed a couple of online courses. Ideally, I would like to continue to specialize in Data Science. I'm impassioned in building artificial intelligence models using machine learning and deep learning techniques.  
 
-## Task 2
 
-***A Good Developer Mindset***
+&nbsp;
+
+
+## A Good Developer Mindset  
 
  - In this century to be successful developer you must follow some rules and think with a simple out of the box ways for your codes.
  - The **main goal** of every software design is to be as easy as it can be to help users to solve their problems.
